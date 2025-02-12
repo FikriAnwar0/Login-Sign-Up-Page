@@ -41,4 +41,4 @@ We welcome contributions! If you would like to improve this project, feel free t
 - CSS3
 
 ## 📜 License
-This project is open-source and available under the [MIT License](LICENSE).
+This project is open-source and available
