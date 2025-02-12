@@ -33,9 +33,6 @@ This project provides a robust and modern user authentication UI that can be sea
    ```
 3. Open `login.html` or `signUp.html` in your browser to test the UI.
 
-## 📌 Contributing
-We welcome contributions! If you would like to improve this project, feel free to submit a pull request or suggest improvements.
-
 ## 🛠️ Technologies Used
 - HTML5
 - CSS3
